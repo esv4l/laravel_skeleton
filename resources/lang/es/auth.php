@@ -20,6 +20,7 @@ return [
 	'login' => 'Iniciar sesión',
 	'register' => 'Registrate',
 	//Formulario
+	'user-or-email' => 'Usuario o correo electrónico',
 	'e-mail' => 'Correo electrónico',
 	'password' => 'Contraseña',
 	'remember-me' => 'Recordar usuario',
