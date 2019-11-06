@@ -1,8 +1,14 @@
+/**
+* General
+*/
 :root {
 	--color-principal: #0fa2e6;
 }
 
-/* Cabecera */
+/**
+* Navbar
+*/
 .orix-navbar { background-color: var(--color-principal); }
 .orix-navbar a { color: #fff; }
 .orix-navbar .navbar-brand img { max-height: 45px; }
+.orix-navbar .dropdown-menu a { color: initial; }

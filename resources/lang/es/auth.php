@@ -19,6 +19,7 @@ return [
 	//enlaces
 	'login' => 'Iniciar sesión',
 	'register' => 'Registrate',
+	'logout' => 'Cerrar sesión',
 	//Formulario
 	'user-or-email' => 'Usuario o correo electrónico',
 	'e-mail' => 'Correo electrónico',
