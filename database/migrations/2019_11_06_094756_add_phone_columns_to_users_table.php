@@ -14,7 +14,7 @@ class AddPhoneColumnsToUsersTable extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table) {
-	    	$table->integer('phone');
+	    	$table->string('phone')->default('000-00-00-00');
         });
     }
 
